@@ -1,7 +1,8 @@
+package functional_interface;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Function;
-import java.util.stream.Collectors;
 
 /**
  * Representa uma função que aceita um argumento do tipo T e retorna um resultado do tipo R.
